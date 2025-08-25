@@ -1,4 +1,4 @@
-data/Salt_Lithology_Mapping_Model.xlsx
+data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
